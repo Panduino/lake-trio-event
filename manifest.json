@@ -1,0 +1,17 @@
+{
+  "id": "lake_trio_events",
+  "name": "Lake Trio Events",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "priority": 121,
+  "dependencies": ["untamed_advanced", "national_dex_gen3"],
+  "optional_dependencies": ["hoenn_journey_firered"],
+  "conflicts": [],
+  "description": "Adds Uxie, Mesprit, and Azelf as progressive legendary encounters across Kanto and Hoenn.",
+  "github": "Panduino/lake-trio-event"
+}
